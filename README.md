@@ -11,4 +11,4 @@
 
   5.It has a beautiful UI and a very minimal design.
 
-It is hosted live on Netlify at https://2kl6n.csb.app/
+It is hosted live on https://2kl6n.csb.app/
