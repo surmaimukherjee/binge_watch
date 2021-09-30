@@ -1,5 +1,5 @@
 # binge_watch
-##Created with CodeSandbox
+## Created with CodeSandbox
 
   1.Lets Binge Watch is a very basic Web app made with the help of React.JS.
 
